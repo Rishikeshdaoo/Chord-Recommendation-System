@@ -1,8 +1,8 @@
 # Chord Recommendation System
 
 ## Contributors
-Rishikesh Daoo \\
-Yilin Zhang \\
+Rishikesh Daoo <br /> 
+Yilin Zhang <br /> 
 Charles Lin
 
 ## Preparation
