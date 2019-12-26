@@ -1,6 +1,6 @@
 # Chord Recommendation System
 
-# Contributors
+## Contributors
 Rishikesh Daoo
 Yilin Zhang
 Charles Lin
